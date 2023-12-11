@@ -1,12 +1,15 @@
 # Quiz App
 
-Bienvenido a la Quiz App (prueba técnica para el acceso a un empleo como Desarrollador), este proyecto consiste en consumir una API externa de Open Trivia DataBase, la cual retorna un JSON con 10 preguntas de verdadero/falso y de la categoría difícil.
+Bienvenido a Quiz App (prueba técnica para el acceso a un empleo como desarrollador), este proyecto consiste en consumir una API externa de Open Trivia DataBase, la cual retorna un JSON con 10 preguntas de verdadero/falso y con una dificultad difícil.
 
 ## Tecnologías Utilizadas
 
 - [React](https://reactjs.org/): Biblioteca de JavaScript para construir interfaces de usuario.
 - [React Router](https://reactrouter.com/): Biblioteca para el enrutamiento en aplicaciones React.
 - [Tailwind CSS](https://tailwindcss.com/): Framework de estilos utilitarios de bajo nivel para construir interfaces.
+
+## Despliegue
+La app web se encuentra desplegada en Render y puedes acceder a ella a través del siguiente link: https://quiz-app-cristianespitia.onrender.com
 
 ## Instalación
 
